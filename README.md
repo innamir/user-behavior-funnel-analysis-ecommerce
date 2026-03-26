@@ -100,4 +100,6 @@ Explored:
 
 ---
 
-##  Project Structure
+## Project Presentation
+
+Video walkthrough: [https://your-loom-link](https://www.loom.com/share/afb4b7e7b35441048857f1a80bfa915b)
