@@ -92,11 +92,12 @@ Explored:
 
 ---
 
-##  Tools Used
+## Tools & Technologies
 
 - Python (Pandas, Plotly)
-- SQL
+- SQL (DBeaver)
 - Jupyter Notebook
+- Power BI  
 
 ---
 
