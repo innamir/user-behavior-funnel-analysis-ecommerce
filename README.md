@@ -58,7 +58,7 @@ Explored:
 ![Time](time_to_checkout.png)
 
 ### Order Value Distribution
-![Order Value](order_value_distribution.png)
+!(order_value_distribution.png)
 
 ---
 ##  Key Findings
