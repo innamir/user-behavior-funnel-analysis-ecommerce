@@ -1,5 +1,13 @@
 #  User Behavior Funnel Analysis (E-commerce)
 
+## Dashboard Preview
+
+Key metrics and funnel analysis visualized in Power BI:
+
+![Dashboard](dashboard.png)
+
+---
+
 ##  Project Overview
 
 This project analyzes user behavior across an e-commerce funnel to identify key drop-off points and understand what factors influence conversion from browsing to purchase.
