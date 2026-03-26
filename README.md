@@ -49,7 +49,18 @@ Explored:
 - Order value distribution
 
 ---
+## Key Visualizations
 
+### Funnel Overview
+![Funnel](funnel.png)
+
+### Time to Checkout
+![Time](time_to_checkout.png)
+
+### Order Value Distribution
+![Order Value](order_value_distribution.png)
+
+---
 ##  Key Findings
 
 - Major drop-off occurs **before checkout** (~45% of users do not proceed)
