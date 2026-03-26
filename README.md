@@ -1,6 +1,6 @@
-# 🛒 User Behavior Funnel Analysis (E-commerce)
+#  User Behavior Funnel Analysis (E-commerce)
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes user behavior across an e-commerce funnel to identify key drop-off points and understand what factors influence conversion from browsing to purchase.
 
@@ -10,7 +10,7 @@ The main focus is on two critical transitions:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Identify where users drop off in the funnel
 - Analyze whether user characteristics and behavior impact conversion
@@ -18,7 +18,7 @@ The main focus is on two critical transitions:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 Synthetic E-commerce dataset including:
 - `customers` — user profiles
@@ -28,7 +28,7 @@ Synthetic E-commerce dataset including:
 
 ---
 
-## 🔍 Analysis Approach
+##  Analysis Approach
 
 ### Funnel Analysis
 - Conversion rates across funnel stages
@@ -50,7 +50,7 @@ Explored:
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 - Major drop-off occurs **before checkout** (~45% of users do not proceed)
 - Checkout → Purchase conversion is relatively strong (~74%)
@@ -63,7 +63,7 @@ Explored:
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 - No detailed event tracking within checkout flow
 - Payment and revenue data available only for completed purchases
@@ -71,7 +71,7 @@ Explored:
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 - Simplify checkout flow
 - Reduce friction (mandatory fields, steps)
@@ -81,7 +81,7 @@ Explored:
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Python (Pandas, Plotly)
 - SQL
@@ -89,4 +89,4 @@ Explored:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
