@@ -5,7 +5,7 @@
 Key metrics and funnel analysis visualized in Power BI:
 ![Dashboard](dashboard_user_behaiver_funnel_analysis.png)
 
-[Open Interective Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiOTVhYjNiNmEtM2ZhNS00ZjUwLThiYTctM2Q0NTRiMWEyMDA4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9](https://app.powerbi.com/view?r=eyJrIjoiOTVhYjNiNmEtM2ZhNS00ZjUwLThiYTctM2Q0NTRiMWEyMDA4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
+[Open Interective Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiOTVhYjNiNmEtM2ZhNS00ZjUwLThiYTctM2Q0NTRiMWEyMDA4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9](https://app.powerbi.com/view?r=eyJrIjoiOTVhYjNiNmEtM2ZhNS00ZjUwLThiYTctM2Q0NTRiMWEyMDA4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ---
 
