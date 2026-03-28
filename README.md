@@ -4,7 +4,7 @@
 
 Key metrics and funnel analysis visualized in Power BI:
 
-![Dashboard](dashboard.png)
+![Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTVhYjNiNmEtM2ZhNS00ZjUwLThiYTctM2Q0NTRiMWEyMDA4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ---
 
